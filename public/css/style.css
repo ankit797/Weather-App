@@ -115,9 +115,7 @@ body{
     align-items: flex-start;
 }
 
-.main_header_right img{
-    filter: drop-shadow(0 0.5rem 1rem rgba(0,0,0,0.3));
-}
+
 
 /* temp input fields style code */
 
@@ -281,10 +279,11 @@ footer p{
 
     .tempInformation{
         width: auto;
+        margin-bottom: 0.2rem;
     }
 
     .main_layer .middle_layer p,
     .main_layer .middle_layer .fa {
-        font-size: 5rem;
+        font-size: 4rem;
     }
 }
